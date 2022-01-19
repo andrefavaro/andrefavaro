@@ -1,28 +1,36 @@
-### Hello World and all universe!! 🌌
-"<!--<!DOCTYPE MinhaVida>
-<html lang="pt-br">
+~~~
+<!DOCTYPE MinhaVida>
+<MinhaVida lang="pt-br">
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>André Vitor Favaro Medes de Oliveira</title>
+  <title>Ola mundo e todo o universo!!</title>
+  <meta name="nome" content="André Vitor Favaro" />
+  <meta name="idade" content="28 anos" />
+  <meta name="localização" content="Contagem - MG - Brasil" />
+  <meta name="descrição" content="Conforme as informações acima, prazer eu sou o André. 
+  Sou mineiro de corpo e alma, não tem nada melhor que um pão de queijo e um café.
+  Sou graduado em engenharia mecânica, tenho experiência profissional na área industrial
+  estou com o objetivo de migrar para área de tecnologia e desenvolvimento Web." />
 </head>
 <body>
-  
+  <div class="interesses-pessoais">
+    <h1>Hobbies e coisas que eu gosto</h1>
+    <ul>
+    <li>Experiência sólida de mais de 20 anos em games<!--Como jogador--></li>
+    <li>Músicas, filmes e séries</li>
+    <li>Alquimista de cerveja artesanal<!--As vezes acerto na receita--></li>
+    <li>Apaixonado com moto custom</li>
+    <li>Admirador das criptomoedas e mercado financeiro</li>
+    </ul>
+  </div>
+
+  <main class="interesses-profissionais">
+    <p>Como não possuo experiência profissional como desenvolvedor, atualmente 
+      estou estudando e fazendo cursos/bootcamps focado no full-stack, para
+    posteriormente aprofundar em certas linguagens ou em uma área que eu me interessa mais.
+  Estudando atualmente Javascript, React, HTML, CSS, Java, Angular</p>
+  </main>
+
 </body>
-</html>"-->"
+</MinhaVida>
+~~~
 
-<!--
-**andrefavaro/andrefavaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
