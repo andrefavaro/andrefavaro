@@ -8,7 +8,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;meta name="nome" content="André Vitor Favaro":curly_haired_man:/&gt;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;meta name="idade" content="28 anos":birthday:/&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;meta name="idade" content="29 anos":birthday:/&gt;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;meta name="localização" content="Minas Gerais - Brasil"/&gt;
 
