@@ -47,7 +47,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;p&gt;Como não possuo experiência profissional como desenvolvedor, atualmente estou  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;estudando e fazendo cursos/bootcampsfocado no full-stack,para posteriormente aprofundar  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;em certas linguagens ou em uma área que eu me interessa mais.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;em certas linguagens ou em uma área que eu me interessa mais.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estudando atualmenteJavascript, React, HTML, CSS, Java, Angular&lt;/p&gt;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/main&gt;
